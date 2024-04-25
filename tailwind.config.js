@@ -40,7 +40,7 @@ module.exports = {
             },
             backgroundImage: {
                 'hero-pattern':
-                    "url('https://demos.wrappixel.com/premium-admin-templates/react/flexy-react/main/static/media/welcome-bg-2x-svg.25338f53.svg')",
+                    "url('https://assets.justinmind.com/wp-content/uploads/2018/12/6-best-practices-for-Dashboard-Design-Justinmind-header-768x492.png')",
             },
         },
     },
