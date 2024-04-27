@@ -83,12 +83,12 @@ const Ecommerce = () => {
               </div>
               <div className='mt-8 '>
                 <p>
-                  <span className='text-3xl font-semibold'>$48,562</span>                  
+                  <span className='text-3xl font-semibold'>$48,562</span>
                 </p>
                 <p className='text-gray-500 mt-2'>Expense</p>
               </div>
 
-              <div className='mt-5'>
+              <div className='mt-10'>
                 <SparkLine
                   currentColor='blue'
                   id='line-sparkline'
@@ -109,8 +109,12 @@ const Ecommerce = () => {
                 />
               </div>
             </div>
+
             <div>
-              <Stacked />
+              <Stacked
+                width='320px'
+                height='360px'
+              />
             </div>
           </div>
         </div>
